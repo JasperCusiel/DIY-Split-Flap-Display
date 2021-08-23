@@ -1,6 +1,6 @@
 # DIY Split-Flap Display
 
-This project is a work in progress and is based on Scott Bez's project found [here](https://github.com/scottbez1/splitflap).
+This project is a work in progress and is based on Scott Bez's project found [here](https://github.com/scottbez1/splitflap). The project is aimed around building a low cost split flap module that could be joined to others to form a display. So far the internsion is to get multiple units dasiy chained togeather for a one line display then will work on integrating it for a particular purpose. 
 
 ## Most current enclosure design
 
